@@ -1,0 +1,17 @@
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\bin\Debug\net8.0-windows\ADO.exe
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\bin\Debug\net8.0-windows\ADO.deps.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\bin\Debug\net8.0-windows\ADO.runtimeconfig.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\bin\Debug\net8.0-windows\ADO.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\bin\Debug\net8.0-windows\ADO.pdb
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.Form1.resources
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.vbproj.GenerateResource.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.AssemblyInfoInputs.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.AssemblyInfo.vb
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.vbproj.CoreCompileInputs.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.sourcelink.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\refint\ADO.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.pdb
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ADO.genruntimeconfig.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\ADO\obj\Debug\net8.0-windows\ref\ADO.dll
