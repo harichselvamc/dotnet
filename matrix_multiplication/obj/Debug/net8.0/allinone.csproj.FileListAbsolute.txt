@@ -1,0 +1,15 @@
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\bin\Debug\net8.0\allinone.exe
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\bin\Debug\net8.0\allinone.deps.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\bin\Debug\net8.0\allinone.runtimeconfig.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\bin\Debug\net8.0\allinone.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\bin\Debug\net8.0\allinone.pdb
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.AssemblyInfoInputs.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.AssemblyInfo.cs
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.csproj.CoreCompileInputs.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.sourcelink.json
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\refint\allinone.dll
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.pdb
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\allinone.genruntimeconfig.cache
+C:\Users\haric\OneDrive\Desktop\client\dotnet\allinone\obj\Debug\net8.0\ref\allinone.dll
