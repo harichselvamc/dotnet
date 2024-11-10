@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+
+<h1>Payment Calculation</h1>
+
+<form method="post">
+    <div>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="Input.Name" value="@Model.Input.Name" />
+    </div>
+    <div>
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" name="Input.Quantity" step="1" value="@Model.Input.Quantity" />
+    </div>
+    <div>
+        <label for="rate">Rate:</label>
+        <input type="number" id="rate" name="Input.Rate" step="0.01" value="@Model.Input.Rate" />
+    </div>
+    <div>
+        <label for="discount">Discount:</label>
+        <input type="number" id="discount" name="Input.Discount" step="0.01" value="@Model.Input.Discount" />
+    </div>
+    <button type="submit">Calculate</button>
+</form>
+
+@if (Model.Result != null)
+{
+    <div>
+        <h2>Calculation Result</h2>
+        <p><strong>Gross Amount (Actual Price):</strong> @Model.Result.GrossAmount</p>
+        <p><strong>Net Amount (After Discount):</strong> @Model.Result.NetAmount</p>
+    </div>
+}
